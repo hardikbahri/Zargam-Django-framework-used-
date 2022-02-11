@@ -1,0 +1,15 @@
+/* for height and width of the box */
+.col{
+    width: 6.5cm;
+    height: 6.5cm;
+   
+}
+/* for navbar items */
+.nav-item{
+    margin-left: .5cm;
+}
+/* controls the navbar as a whole */
+.container-fluid{
+    margin-left:110px;
+
+}
